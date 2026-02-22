@@ -19,22 +19,16 @@ body_class: "page--about"
 <span class='anchor' id='about-me'></span>
 
 <p>
-I am an undergraduate majoring in Economics and Finance at the School of Business, Anhui University of Technology. I am currently working with Prof. Hong Jingke at Chongqing University. My research lies at the intersection of climate risk, adaptation and mitigation, AI for social science, and urban decarbonization.
-</p>
+I am an undergraduate majoring in Economics and Finance at the School of Business, Anhui University of Technology. I am currently working with Prof. Hong Jingke at Chongqing University. My research lies at the intersection of climate change, AI for social science, and urban decarbonization. **My research focuses on climate risk, adaptation, and mitigation through AI4Science methods**.
 
 <p>
-My research focuses on understanding how climate risks affect economic systems and urban development, and how artificial intelligence can support complex social decision-making under uncertainty. In particular, I am interested in integrating quantitative modeling, empirical analysis, and policy-oriented research to explore pathways toward resilient and low-carbon urban transformation.
-</p>
-
-<p>
-I am at the beginning of a long academic journey, and I hope to build rigorous, policy-relevant, and socially responsible research that bridges climate science, economics, and artificial intelligence.
-Feel free to reach out! <b>Email</b>: your_email_here
+I am still figuring out how tools from artificial intelligence and management science can help us better understand climate risk and economic systems. Feel free to reach out! <b>Email</b>: mjl19905464288@163.com
 </p>
 
 <details>
   <summary>About me (中文)</summary>
   <p>
-  马金磊，中共党员，安徽工业大学商学院经济与金融专业本科生，现跟随重庆大学洪竞科教授学习。研究方向为**Climate risk adaptation and mitigation**; **AI4Science** (with a focus on climate change, Management science, and real estate systems), and **Urban Decarbonization**； 已在国际高水平期刊 Sustainable Production and Consumption（中科院一区TOP，SCI & SSCI双一区）发表学术论文一篇，完成工作论文一篇。主持或参与国家级大学生创新创业项目2项，完成省级研究课题3项，并在清华大学、中央财经大学进行学术论坛口头报告；曾获挑战杯、统计建模等学科与实践类竞赛30余项荣誉，其中国家级奖项13项、省级奖项8项。作为第一负责人组织开展南京都市圈新市民与青年住房问题专项调研，相关成果获住建部、共青团中央等单位表扬，并受邀参加世界青年发展论坛。参与宝钢、武钢、马钢、梅山矿业等180余家企业数字化转型调研，相关成果获得多位专家与企业负责人认可。
+  马金磊，中共党员，安徽工业大学商学院经济与金融专业本科生，现跟随重庆大学洪竞科教授学习。主要研究方向为Climate Change and AI4Science, particularly in the context of management science and real estate systems.； 已目前已在国际高水平期刊 Sustainable Production and Consumption（中科院一区TOP，SCI & SSCI双一区）发表学术论文一篇，完成工作论文一篇。主持或参与国家级大学生创新创业项目2项，完成省级研究课题3项，并在清华大学、中央财经大学等高校参与学术报告；曾获挑战杯、统计建模等学科与实践类竞赛30余项荣誉，其中国家级奖项13项、省级奖项8项。作为第一负责人组织开展的南京都市圈新市民与青年住房问题专项调研，相关成果获住建部、共青团中央等单位表扬，并受邀参加世界青年发展论坛；此外，还参与宝钢、武钢、马钢、梅山矿业等180余家企业数字化转型调研，相关成果获得多位专家学者与业界领导认可。
   </p>
 </details>
 
