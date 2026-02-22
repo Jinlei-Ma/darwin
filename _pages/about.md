@@ -50,8 +50,6 @@ I am still figuring out how tools from artificial intelligence and management sc
 
 - *2024.08*: &nbsp;🏆🥉 <span style="color:#d62728;"><strong>National Third Prize</strong></span>, 10th National College Student Statistical Modeling Competition.
 
-<details markdown="1">
-  <summary><font size="+1"><b>More news</b></font></summary>
 - *2024.07*: &nbsp;🏆🥈 Awarded Second Prize in the 2024 Anhui Provincial Market Research and Analysis Competition.
 
 - *2024.07*: &nbsp;🏆🌟 Awarded Outstanding Team in the 2024 Summer Social Practice Program.
@@ -66,6 +64,9 @@ I am still figuring out how tools from artificial intelligence and management sc
 
 - *2024.01*: &nbsp;✉️🏛️ Research team received a Letter of Appreciation from the Ministry of Housing and Urban-Rural Development of China.
 
+<details markdown="1">
+  <summary><font size="+1"><b>More news</b></font></summary>
+  
 - *2023.12*: &nbsp;🏆🥉 <span style="color:#d62728;"><strong>National Third Prize</strong></span>, 18th “Challenge Cup” National Undergraduate Academic Competition.
 
 - *2023.12*: &nbsp;🏆🌟 Awarded Outstanding Team in the 2023 Anhui Provincial Summer Social Practice Program.
