@@ -18,7 +18,7 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in Economics and Finance at the School of Business, Anhui University of Technology. I am currently working with Prof. Hong Jingke at Chongqing University. My research lies at the intersection of climate change, AI for social science, and urban decarbonization. **My research focuses on climate risk, adaptation, and mitigation through AI4Science methods**.
+I am an undergraduate majoring in Economics and Finance at the School of Business, Anhui University of Technology. I am currently working with Prof. Jingke Hong at Chongqing University. My research lies at the intersection of climate change, AI for social science, and urban decarbonization. **My research focuses on climate risk, adaptation, and mitigation through AI4Science methods**.
 
 I am still figuring out how tools from artificial intelligence and management science can help us better understand climate risk and economic systems. Feel free to reach out! <b>Email</b>: mjl19905464288@163.com
 
