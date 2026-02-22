@@ -48,8 +48,8 @@ Feel free to reach out! <b>Email</b>: your_email_here
 - *2025.04*: &nbsp;📄📝 Completed working paper “Heterogeneous Effects of Green Finance on Urban Decarbonization: Evidence from 285 Cities in China”.
 
 - *2024.12*: &nbsp;🚀📘 Project selected for the 2024 National College Student Social Practice “Qian Xiao Qian Xiang” Program.
-- 
-- *2024.11*: &nbsp;🚀🏅 <span style="color:#d62728;"><strong>National Undergraduate Innovation and Entrepreneurship Training Program approved (PI)</strong></span>.
+ 
+- *2024.11*: &nbsp;🚀🏅 <span style="color:#d62728;"><strong>National Undergraduate Innovation and Entrepreneurship Training Program approved (202410360103)</strong></span>.
 
 - *2024.11*: &nbsp;🚀📘 Successfully completed the 2024 National Summer Social Practice Program (Central University of Finance and Economics).
 
