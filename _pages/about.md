@@ -114,7 +114,7 @@ Feel free to reach out! <b>Email</b>: your_email_here
 - *2023.01*: &nbsp;🏆🌟 Awarded Outstanding Team in University Summer Social Practice Program.
 
 - *2022.12*: &nbsp;📊🏭 Participated in large-scale field research on digital transformation of the steel industry involving over 180 enterprises.
-<details>
+</details>
 
 <!-- # TODO Add undergraduate research statement -->
 # 📝 Publications 
