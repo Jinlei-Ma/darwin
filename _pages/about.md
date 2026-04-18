@@ -18,14 +18,22 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in Economics and Finance at the School of Business, Anhui University of Technology. I am currently conducting research under the supervision of Prof. Jingke Hong at Chongqing University. My research lies at the intersection of climate change, AI for social science, and urban decarbonization. **My research focuses on climate risk, adaptation, and mitigation through AI4Science methods**.
+I am Jinlei Ma, a fourth-year undergraduate student majoring in Economics and Finance at the School of Business, Anhui University of Technology. Under the supervision of Professor Jingke Hong, Associate Dean of the School of Management Science and Real Estate at Chongqing University, I have been conducting research on urban climate risk, adaptation, and low-carbon transition. I have published one article in Sustainable Production and Consumption (SCI \& SSCI Q1, IF = 9.6) and completed two working papers. My research interests lie at the intersection of **climate change, artificial intelligence, and social science, with a particular focus on urban climate risk, adaptation, and mitigation**. I am especially interested in how AI for Science, spatial big data analytics, and management science methods can be used to develop a more systematic understanding of how climate change affects production systems, daily life, ecosystems, and governance practices.
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <img src="/files/previous research.png" alt="Previous Research" style="max-width: 100%; border-radius: 4px;">
+</div>
+
+Methodologically, I am particularly interested in the potential of artificial intelligence, machine learning, spatial analysis, and management science tools in climate change research. My interest is not limited to the techniques themselves, but rather in how these methods can help us better identify risk structures, characterise interactions among complex systems, and provide a more explanatory and operational evidence base for climate governance and policy analysis. In recent years, I have also begun to explore the potential application of world models in climate change research. In particular, I hope to investigate how world models can be used to simulate the coupled relationships between climate systems and human behaviour, urban operations, and policy responses, thereby offering new research tools for future risk prediction, adaptation evaluation, and transition pathway optimisation.
+
+For me, climate change research is not only an environmental issue, but also a comprehensive question involving urban development, economic systems, public governance, and social equity. I am still actively exploring how artificial intelligence and management science methods can more effectively serve climate risk research and economic systems analysis, and I hope to gradually develop a clearer and more coherent research trajectory through this process.
 
 I am still figuring out how tools from artificial intelligence and management science can help us better understand climate risk and economic systems. Feel free to reach out! <b>Email</b>: mjl19905464288@163.com
 
 <details>
   <summary>关于我（中文）</summary>
   <p>
-  马金磊，中共党员，安徽工业大学商学院经济与金融专业本科生，现跟随重庆大学洪竞科教授学习。主要研究方向为Climate Change and AI4Science, particularly in the context of management science and real estate systems.； 已目前已在国际高水平期刊 Sustainable Production and Consumption（中科院一区TOP，SCI & SSCI双一区）发表学术论文一篇，完成工作论文一篇。主持或参与国家级大学生创新创业项目2项，完成省级研究课题3项，并在清华大学、中央财经大学等高校参与学术报告；曾获挑战杯、统计建模等学科与实践类竞赛30余项荣誉，其中国家级奖项13项、省级奖项8项。作为第一负责人组织开展的南京都市圈新市民与青年住房问题专项调研，相关成果获住建部、共青团中央等单位表扬，并受邀参加世界青年发展论坛；此外，还参与宝钢、武钢、马钢、梅山矿业等180余家企业数字化转型调研，相关成果获得多位专家学者与业界领导认可。
+  马金磊，中共党员，安徽工业大学商学院经济与金融专业2022级本科生，现跟随重庆大学管理科学与房地产学院副院长洪竞科教授学习。主要研究方向为Climate Change and AI4Science, particularly in the context of management science and real estate systems.； 已目前已在国际高水平期刊 Sustainable Production and Consumption（中科院一区TOP，SCI & SSCI双一区）发表学术论文一篇，完成工作论文一篇。主持或参与国家级大学生创新创业项目2项，完成省级研究课题3项，并在清华大学、中央财经大学等高校参与学术报告；曾获挑战杯、统计建模等学科与实践类竞赛30余项荣誉，其中国家级奖项13项、省级奖项8项。作为第一负责人组织开展的南京都市圈新市民与青年住房问题专项调研，相关成果获住建部、共青团中央等单位表扬，并受邀参加世界青年发展论坛；此外，还参与宝钢、武钢、马钢、梅山矿业等180余家企业数字化转型调研，相关成果获得多位专家学者与业界领导认可。
   </p>
 </details>
 
